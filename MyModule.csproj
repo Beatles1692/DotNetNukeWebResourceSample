@@ -130,7 +130,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\MyFramework\MyFramework.csproj">
+    <ProjectReference Include="MyFramework\MyFramework.csproj">
       <Project>{0ede90cf-41a3-4329-9cf3-1aad95cd4ff7}</Project>
       <Name>MyFramework</Name>
     </ProjectReference>

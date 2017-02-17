@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyModule", "MyModule.csproj", "{B2955C44-6216-45C8-90B5-55B5CF25C018}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework", "..\MyFramework\MyFramework.csproj", "{0EDE90CF-41A3-4329-9CF3-1AAD95CD4FF7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFramework", "MyFramework\MyFramework.csproj", "{0EDE90CF-41A3-4329-9CF3-1AAD95CD4FF7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
